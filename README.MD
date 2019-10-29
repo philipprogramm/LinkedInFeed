@@ -1,4 +1,4 @@
-License: CC-BY-NC-SA. See https://www.philipprogramm.de/code/linkedin-feed-in_webseite-einbetten/ for commercial licenses.
+License: CC-BY-NC-SA. See https://www.philipprogramm.de/code/web/linkedin-feed-in_webseite-einbetten/ for commercial licenses.
 # LinkedIn Feed
 
 ## DE
