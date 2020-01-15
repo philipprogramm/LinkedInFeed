@@ -23,3 +23,8 @@ Wenn ihr einen Ordner mit anderen Namen erstellt und die Bilder als bg0.jpg, bg1
 ## EN
 
 Coming soon!
+
+
+
+## Support
+Support is avaliable under support.philipprogramm.de or linkedin-feed@support.philipprogramm.de
