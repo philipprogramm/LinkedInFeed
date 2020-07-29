@@ -27,4 +27,4 @@ Coming soon!
 
 
 ## Support
-Support is avaliable under support.philipprogramm.de or linkedin-feed@support.philipprogramm.de
+Support is avaliable at support.philipprogramm.de or linkedin-feed@support.philipprogramm.de
